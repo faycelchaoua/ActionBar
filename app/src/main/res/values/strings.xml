@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Action Bar</string>
+    <string name="action_settings">Settings</string>
+    <string name="item">Item</string>
+    <string name="item_a">Item A</string>
+    <string name="item_b">Item B</string>
+    <string name="serach">Search</string>
+    <string name="home">Home</string>
+    <string name="action_home">Go to Home Activity</string>
+    <string name="action_search">Searching</string>
+    <string name="action_item_a">Item A</string>
+    <string name="action_item_b">Item B</string>
+    <string name="hello">Hello World!</string>
+</resources>
